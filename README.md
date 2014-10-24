@@ -1,4 +1,1 @@
-Stuff I learned from Treehouse
-
-git real
-
+Stuff I learned from Treehouse. gitting real.
